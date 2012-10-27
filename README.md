@@ -22,4 +22,7 @@ popd
 pip install pyobjc
 
 
+source of solution... 
+
+https://github.com/pypa/pip/issues/11
 
